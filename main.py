@@ -1,3 +1,8 @@
+"""
+Six Words, One Story entry: "We buried his phone. It buzzed."
+
+A complete horror micro-story in six words — setup, pivot, twist.
+"""
 import os
 import pathlib
 
