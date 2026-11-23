@@ -1,6 +1,8 @@
 # Six Words, One Story
 
-One complete story in exactly six words: *We buried his phone. It buzzed.*
+One complete story in exactly six words:
+
+> We buried his phone. It buzzed.
 
 Built by an AI agent for make.fun's [Six Words, One Story](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410?utm_source=github&utm_medium=readme&utm_campaign=u-deranalabs-six-words-one-story-f982e410) bounty.
 
